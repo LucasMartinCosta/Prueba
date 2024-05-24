@@ -6,7 +6,7 @@ public class Main {
         // Creando agencia
         AgenciaViajes travelFan=new AgenciaViajes();
         //LUCASPUTO
-
+//IMAMAMAMMAMAMAMAMA
         // creando paquetes turisticos
         PaqueteTuristico aventura1= new Aventura("playa",10,7,"kayak");
         PaqueteTuristico aventura2= new Aventura("montania",20,5,"senderismo");
